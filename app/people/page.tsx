@@ -11,7 +11,7 @@ const JON = {
         "Throughout his career, he has become an expert in both modern and historic structural building systems and materials. At Field & Tung, Mr. Tung remains directly involved with the management of projects as well as project design and analysis.",
     ],
     stats: [
-        { num: "30", label: "Years of Experience" },
+        { num: "30+", label: "Years of Experience" },
         { num: "Multiple", label: "States Licensed" },
     ],
     expertise: [
@@ -158,6 +158,24 @@ export default function People() {
                                 <div className="profile-list-meta">{n.type}</div>
                             </div>
                         ))}
+                    </div>
+                </div>
+            </div>
+
+            {/* Photo strip */}
+            <div className="profile-photos">
+                <div className="profile-photo-strip">
+                    <div className="profile-strip-item">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src="/rescue-1.jpg" alt="" className="profile-strip-img" />
+                    </div>
+                    <div className="profile-strip-item">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src="/rescue-2.jpg" alt="" className="profile-strip-img" />
+                    </div>
+                    <div className="profile-strip-item">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src="/rescue-3.jpg" alt="Speaking at NSPE" className="profile-strip-img" />
                     </div>
                 </div>
             </div>
