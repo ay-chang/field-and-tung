@@ -11,7 +11,7 @@ const JON = {
         "Throughout his career, he has become an expert in both modern and historic structural building systems and materials. At Field & Tung, Mr. Tung remains directly involved with the management of projects as well as project design and analysis.",
     ],
     stats: [
-        { num: "30+", label: "Years of Experience" },
+        { num: "Over 30", label: "Years of Experience" },
         { num: "Multiple", label: "States Licensed" },
     ],
     expertise: [
