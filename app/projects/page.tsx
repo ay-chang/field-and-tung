@@ -14,7 +14,7 @@ const PHOTO_PROJECTS = [
     },
     {
         id: 2,
-        name: "Wiltsberger Street NW",
+        name: "Multi-Family Building NW DC",
         location: "Washington, DC",
         type: "Adaptive Reuse",
         category: "adaptive",
@@ -30,10 +30,10 @@ const PHOTO_PROJECTS = [
     },
     {
         id: 4,
-        name: "BNSIC",
-        location: "Bethesda, MD",
-        type: "Federal / Institutional",
-        category: "government",
+        name: "Basilica of the National Shrine",
+        location: "Washington, DC",
+        type: "Faith-Based / Institutional",
+        category: "faith",
         img: "/bnics.jpg",
     },
     {
@@ -46,7 +46,7 @@ const PHOTO_PROJECTS = [
     },
     {
         id: 6,
-        name: "Naval Surface Warfare Center",
+        name: "Federal / Government Building Virginia",
         location: "Virginia",
         type: "Federal / Government",
         category: "government",
@@ -237,13 +237,6 @@ const LIST_PROJECTS = [
         category: "education",
     },
     // Faith-Based
-    {
-        id: 501,
-        name: "Basilica of the National Shrine",
-        location: "Washington, DC",
-        type: "Faith-Based / Institutional",
-        category: "faith",
-    },
     {
         id: 502,
         name: "ADAMS Center",
