@@ -17,7 +17,7 @@ export default function Home() {
                     />
                     <div className="home-photo-caption">
                         <span className="home-photo-caption-name">
-                            Wiltsberger Street NW, Washington DC
+                            Multi-Family Building NW DC
                         </span>
                         <span className="home-photo-caption-type">Adaptive Reuse</span>
                     </div>
