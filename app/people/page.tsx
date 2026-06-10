@@ -6,7 +6,7 @@ const JON = {
     role: "Founding Principal",
     photo: "/tung-profile.jpg" as string | null,
     bio: [
-        "Mr. Tung is a founding member of Field & Tung Structural Engineers with thirty years of professional engineering experience in the Washington, DC and Baltimore, MD metropolitan areas.",
+        "Mr. Tung is a founding member of Field & Tung Structural Engineers with over thirty years of professional engineering experience in the Washington, DC and Baltimore, MD metropolitan areas.",
         "His expertise encompasses a wide variety of new and existing building structures, including historic renovations and modernizations, adaptive reuse projects, investigations, emergency stabilization, and building repairs, in addition to new building design.",
         "Throughout his career, he has become an expert in both modern and historic structural building systems and materials. At Field & Tung, Mr. Tung remains directly involved with the management of projects as well as project design and analysis.",
     ],
