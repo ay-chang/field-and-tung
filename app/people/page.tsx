@@ -167,15 +167,19 @@ export default function People() {
                 <div className="profile-photo-strip">
                     <div className="profile-strip-item">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img src="/rescue-1.jpg" alt="" className="profile-strip-img" />
+                        <img src="/Jon_1.jpg" alt="" className="profile-strip-img" />
                     </div>
                     <div className="profile-strip-item">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img src="/rescue-2.jpg" alt="" className="profile-strip-img" />
+                        <img src="/Jon_2.jpg" alt="" className="profile-strip-img" />
                     </div>
                     <div className="profile-strip-item">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img src="/rescue-3.jpg" alt="Speaking at NSPE" className="profile-strip-img" />
+                        <img src="/Jon_3.jpg" alt="" className="profile-strip-img" />
+                    </div>
+                    <div className="profile-strip-item">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src="/Jon_4.jpg" alt="" className="profile-strip-img" />
                     </div>
                 </div>
             </div>

@@ -30,7 +30,7 @@ const PHOTO_PROJECTS = [
     },
     {
         id: 4,
-        name: "Basilica of the National Shrine",
+        name: "Basilica of the National Shrine of the Immaculate Conception",
         location: "Washington, DC",
         type: "Faith-Based / Institutional",
         category: "faith",

@@ -341,7 +341,7 @@ nav {
 }
 
 .profile-photo-strip {
-  display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px;
   padding-top: 36px;
 }
 
