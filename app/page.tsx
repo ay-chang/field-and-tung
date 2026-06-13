@@ -1,7 +1,14 @@
 import Link from "next/link";
 import Image from "next/image";
+import { isMaintenanceOn } from "@/lib/maintenance";
+
+export const dynamic = 'force-dynamic';
 
 export default function Home() {
+    if (isMaintenanceOn()) {
+        return <div style={{ background: 'white', width: '100vw', height: '100vh' }} />;
+    }
+
     return (
         <div className="page page-fade">
             <div className="home">
