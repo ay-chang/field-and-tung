@@ -66,7 +66,7 @@ export default function Contact() {
             <>
               <h2 className="contact-form-title">Send a Message</h2>
               <form onSubmit={handleSubmit}>
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0 28px' }}>
+                <div className="contact-form-2col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0 28px' }}>
                   <div className="form-row">
                     <label className="form-label">Name</label>
                     <input
