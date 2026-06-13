@@ -4,6 +4,7 @@ import { isMaintenanceOn } from "@/lib/maintenance";
 
 export const dynamic = 'force-dynamic';
 
+
 export default function Home() {
     if (isMaintenanceOn()) {
         return <div style={{ background: 'white', width: '100vw', height: '100vh' }} />;
